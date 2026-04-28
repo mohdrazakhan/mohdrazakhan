@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mohd Raza Khan</h1>
-<h3 align="center">🚀 Full-Stack Developer | Flutter | AI | IoT Enthusiast</h3>
+<h3 align="center"> Full-Stack Developer | Flutter Developer | AI | IoT Enthusiast</h3>
+
+---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohdrazakhan&show_icons=true" />
+  <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrazakhan" />
+</p>
 
 ---
 
@@ -45,22 +53,7 @@
 - 🗄️ Databases: MySQL, MongoDB  
 
 ---
-## 📊 GitHub Stats
 
-<p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mohdrazakhan&show_icons=true&theme=default" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrazakhan" />
-      </td>
-    </tr>
-  </table>
-</p>
-
----
 
 ## 🌐 Connect With Me
 - 🌍 Portfolio: https://mohdrazakhan.me  

@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohd Raza Khan</h1>
-<h3 align="center"> Full-Stack Developer | Flutter Developer | AI | IoT Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Flutter+Developer;AI;IoT+Enthusiast;Building+Real-World+Projects" />
+</p>
 
 ---
 ## 📊 GitHub Stats
@@ -11,12 +13,20 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Final Year B.Tech CSE @ Sharda University
-- 📱 Built **OneRoom App** (250+ downloads, 4.6⭐)
-- 🤖 Working on **AI & Voice-based Systems**
-- 🚀 Passionate about solving real-world problems through tech
-- 🎯 Actively looking for **Full-Stack / Flutter / Backend roles**
+## 🧑‍💻 About Me
+
+I build **real-world applications that solve practical problems**.
+
+Currently in my final year of B.Tech CSE, I’ve already developed and shipped products like **OneRoom (100+ downloads, 4.6⭐)** and I’m working on **OptiRider**, a system aimed at optimizing workflows for gig economy riders.
+
+I enjoy working at the intersection of **Flutter, Backend Development, and AI**, where I can turn ideas into usable, scalable products—not just prototypes.
+
+My focus is simple:
+- Build things that people actually use  
+- Continuously improve system design & problem-solving skills  
+- Grow into a developer who can own products end-to-end  
+
+🚀 Actively seeking opportunities in **Full-Stack / Flutter / Backend Development**
 
 ---
 

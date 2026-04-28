@@ -45,11 +45,19 @@
 - 🗄️ Databases: MySQL, MongoDB  
 
 ---
-
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdrazakhan&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrazakhan" />
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=mohdrazakhan&show_icons=true&theme=default" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrazakhan&theme=default" />
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---

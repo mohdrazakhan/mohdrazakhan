@@ -5,7 +5,7 @@
 
 ## 👨‍💻 About Me
 - 🎓 Final Year B.Tech CSE @ Sharda University
-- 📱 Built **OneRoom App** (100+ downloads, 4.6⭐)
+- 📱 Built **OneRoom App** (250+ downloads, 4.6⭐)
 - 🤖 Working on **AI & Voice-based Systems**
 - 🚀 Passionate about solving real-world problems through tech
 - 🎯 Actively looking for **Full-Stack / Flutter / Backend roles**

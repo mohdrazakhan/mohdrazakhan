@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 Final Year B.Tech CSE @ Sharda University (CGPA: 8.34)
+- 🎓 Final Year B.Tech CSE @ Sharda University
 - 📱 Built **OneRoom App** (100+ downloads, 4.6⭐)
 - 🤖 Working on **AI & Voice-based Systems**
 - 🚀 Passionate about solving real-world problems through tech
@@ -56,8 +56,8 @@
 
 ## 🌐 Connect With Me
 - 🌍 Portfolio: https://mohdrazakhan.me  
-- 💼 LinkedIn: (add your link here)  
-- 📧 Email: (add your email here)  
+- 💼 LinkedIn: https://www.linkedin.com/in/mohdrazakhan32/
+- 📧 Email: mohdrazakhan32@gmail.com
 
 ---
 

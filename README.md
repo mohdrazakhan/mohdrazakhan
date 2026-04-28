@@ -54,7 +54,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=mohdrazakhan&show_icons=true&theme=default" />
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrazakhan&theme=default" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrazakhan" />
       </td>
     </tr>
   </table>

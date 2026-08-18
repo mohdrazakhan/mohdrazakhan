@@ -9,7 +9,7 @@
 
 I build **real-world applications that solve practical problems**.
 
-Currently in my final year of B.Tech CSE, I’ve already developed and shipped products like **OneRoom (100+ downloads, 4.6⭐)** and I’m working on **OptiRider**, a system aimed at optimizing workflows for gig economy riders.
+I recently complete my B.Tech CSE, I’ve already developed and shipped products like **OneRoom (350+ downloads, 4.6⭐)** and I’m working as Flutter Developer at Fretbox
 
 I enjoy working at the intersection of **Flutter, Backend Development, and AI**, where I can turn ideas into usable, scalable products—not just prototypes.
 

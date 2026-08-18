@@ -4,14 +4,6 @@
 </p>
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mohdrazakhan&show_icons=true" />
-  <img width="50.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mohdrazakhan" />
-</p>
-
----
 
 ## 🧑‍💻 About Me
 
